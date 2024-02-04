@@ -25,4 +25,4 @@
 
 <p margin="auto"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tami-cp0&show_icons=true&locale=en&layout=compact" alt="tami-cp0" /></p>
 
-<p margin-top="10px">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tami-cp0&show_icons=true&locale=en" alt="tami-cp0" /></p>
+<p margin-top="100px">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tami-cp0&show_icons=true&locale=en" alt="tami-cp0" /></p>
