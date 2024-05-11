@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tami-cp0&label=Profile%20views&color=0e75b6&style=flat" alt="tami-cp0" /> </p>
 
-- 🔭 I’m currently working on [AirBnB_clone_v2](https://github.com/tami-cp0/Ikiru)
+- 🔭 I’m currently working on [Ikiru](https://github.com/tami-cp0/Ikiru)
 
 - 🌱 I’m currently learning **JS, Figma**
 
