@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tami-cp0&label=Profile%20views&color=0e75b6&style=flat" alt="tami-cp0" /> </p>
 
-- 🔭 I’m currently working on [AirBnB_clone_v2](https://github.com/tami-cp0/AirBnB_clone_v2)
+- 🔭 I’m currently working on [AirBnB_clone_v2](https://github.com/tami-cp0/Ikiru)
 
-- 🌱 I’m currently learning **C, Python, Figma**
+- 🌱 I’m currently learning **JS, Figma**
 
 - 📝 I regularly write articles on [DEV](https://dev.to/tami-cp0) or [Medium](https://medium.com/@findtamilore)
 
