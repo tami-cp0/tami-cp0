@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oluwatamilore Olugbesan</h1>
-<h3 align="center">An aspiring full-stack developer from Nigeria</h3>
+<h3 align="center">An aspiring full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tami-cp0&label=Profile%20views&color=0e75b6&style=flat" alt="tami-cp0" /> </p>
 
 - 🔭 I’m currently working on [Ikiru](https://github.com/tami-cp0/Ikiru)
 
-- 🌱 I’m currently learning **JS, Figma**
+- 🌱 I’m currently learning **NodeJS, Figma and MongoDB**
 
 - 📝 I regularly write articles on [DEV](https://dev.to/tami-cp0) or [Medium](https://medium.com/@findtamilore)
 
