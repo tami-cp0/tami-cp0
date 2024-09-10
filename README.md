@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tami-cp0&label=Profile%20views&color=0e75b6&style=flat" alt="tami-cp0" /> </p>
 
-- 🔭 I’m currently working on [Eureka](https://github.com/tami-cp0/Eureka)
+- 🌱 I’m currently learning **Swagger for nodeJS**
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, Redis, Figma and MongoDB**
-
-- 📝 I regularly write articles on [DEV](https://dev.to/tami-cp0) or [Medium](https://medium.com/@findtamilore)
+- 📝 I write articles on [DEV](https://dev.to/tami-cp0) or [Medium](https://medium.com/@findtamilore)
 
 - 📫 How to reach me **findtamilore@gmail.com**
 
